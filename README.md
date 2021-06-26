@@ -1,4 +1,4 @@
-# Nimesa_Round_2
+# Nimesa
 
 A modular program in java to allow user to use a REST GET API of weather forecast of London location.
 
